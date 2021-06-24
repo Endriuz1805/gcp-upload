@@ -14,30 +14,6 @@ The system has been designed in a manner such that no sensitive information is s
 
 While the initial setup and configuration is a multi-step process for the system administrator, the actual operation of the uploader tool is, by design, exceedingly simple for the end user.
 
-Please read the [User Manual](UserManual.pdf) for detailed instructions on installing and operationalizing the gcs-uploader.
+Please read the [User Manual](User-Manual.pdf) for detailed instructions on installing and operationalizing the gcs-uploader.
 
-If you have a Google Cloud account team, you can contact them for further help.
 
-### License
-
-gcs-uplaoder is released under the [Apache 2.0 license](LICENSE).
-
-```
-Copyright 2008 Google Inc.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-### Disclaimer
-
-This is not an officially supported Google product.
